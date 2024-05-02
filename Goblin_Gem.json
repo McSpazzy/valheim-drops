@@ -1,0 +1,29 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 2,
+    "Max": 4,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "GemstoneBlue"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 2,
+    "Max": 4,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "GemstoneGreen"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 2,
+    "Max": 4,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "GemstoneRed"
+  }
+]

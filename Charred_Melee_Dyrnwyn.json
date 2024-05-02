@@ -4,8 +4,8 @@
     "NoScaleWithLevel": false,
     "Min": 1,
     "Max": 1,
-    "Rate": 0.5,
+    "Rate": 1.0,
     "LevelMultiplier": 0,
-    "Prefab": "RoyalJelly_0"
+    "Prefab": "DyrnwynHiltFragment"
   }
 ]

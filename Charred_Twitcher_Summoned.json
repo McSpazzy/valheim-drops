@@ -3,9 +3,9 @@
     "DropPerPerson": false,
     "NoScaleWithLevel": false,
     "Min": 1,
-    "Max": 1,
-    "Rate": 0.5,
-    "LevelMultiplier": 0,
-    "Prefab": "RoyalJelly_0"
+    "Max": 2,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "CharredBone_0"
   }
 ]

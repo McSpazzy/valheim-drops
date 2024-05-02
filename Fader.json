@@ -6,7 +6,7 @@
     "Max": 1,
     "Rate": 1.0,
     "LevelMultiplier": 0,
-    "Prefab": "TrophySeekerQueen_0"
+    "Prefab": "TrophyFader"
   },
   {
     "DropPerPerson": false,
@@ -15,6 +15,6 @@
     "Max": 5,
     "Rate": 1.0,
     "LevelMultiplier": 0,
-    "Prefab": "QueenDrop_1"
+    "Prefab": "FaderDrop"
   }
 ]

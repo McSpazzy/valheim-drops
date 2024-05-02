@@ -1,0 +1,20 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 3,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "CharredBone_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.05,
+    "LevelMultiplier": 1,
+    "Prefab": "TrophyCharredMage"
+  }
+]

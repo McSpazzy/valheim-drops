@@ -1,0 +1,29 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.2,
+    "LevelMultiplier": 1,
+    "Prefab": "AskBladder"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.2,
+    "LevelMultiplier": 1,
+    "Prefab": "AskHide"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.2,
+    "LevelMultiplier": 1,
+    "Prefab": "AsksvinMeat"
+  }
+]

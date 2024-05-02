@@ -1,0 +1,29 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.33,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophyBonemawSerpent"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 6,
+    "Max": 8,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "BoneMawSerpentMeat"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 8,
+    "Max": 10,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "BonemawSerpentTooth"
+  }
+]
