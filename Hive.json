@@ -1,0 +1,20 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 1.0,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophySeekerQueen_0"
+  },
+  {
+    "DropPerPerson": true,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 1.0,
+    "LevelMultiplier": 0,
+    "Prefab": "QueenDrop_0"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 4,
+    "Max": 6,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "LoxMeat_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.1,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophyLox_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 2,
+    "Max": 3,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "LoxPelt_0"
+  }
+]

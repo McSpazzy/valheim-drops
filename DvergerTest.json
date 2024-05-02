@@ -1,0 +1,38 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 20,
+    "Max": 40,
+    "Rate": 0.25,
+    "LevelMultiplier": 1,
+    "Prefab": "Coins_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 2,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "BlackMetalScrap_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 2,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "Pukeberries_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.1,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophyGoblinShaman_0"
+  }
+]

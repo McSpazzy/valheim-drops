@@ -1,0 +1,20 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": true,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 1.0,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophyBonemass_0"
+  },
+  {
+    "DropPerPerson": true,
+    "NoScaleWithLevel": true,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 1.0,
+    "LevelMultiplier": 0,
+    "Prefab": "Wishbone_0"
+  }
+]

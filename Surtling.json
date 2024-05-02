@@ -1,0 +1,29 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 4,
+    "Max": 5,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "Coal_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.5,
+    "LevelMultiplier": 1,
+    "Prefab": "SurtlingCore_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.05,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophySurtling_0"
+  }
+]

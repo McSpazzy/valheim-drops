@@ -1,0 +1,20 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.5,
+    "LevelMultiplier": 1,
+    "Prefab": "Entrails_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.1,
+    "LevelMultiplier": 1,
+    "Prefab": "TrophyDraugr_0"
+  }
+]

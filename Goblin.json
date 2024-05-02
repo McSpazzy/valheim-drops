@@ -1,0 +1,29 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 5,
+    "Max": 10,
+    "Rate": 0.25,
+    "LevelMultiplier": 1,
+    "Prefab": "Coins_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 2,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "BlackMetalScrap_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.1,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophyGoblin_0"
+  }
+]

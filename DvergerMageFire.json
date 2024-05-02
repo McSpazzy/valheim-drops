@@ -1,0 +1,38 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 2,
+    "Rate": 0.25,
+    "LevelMultiplier": 0,
+    "Prefab": "Softtissue_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 2,
+    "Rate": 0.5,
+    "LevelMultiplier": 0,
+    "Prefab": "BlackMarble_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 2,
+    "Max": 15,
+    "Rate": 1.0,
+    "LevelMultiplier": 0,
+    "Prefab": "Coins_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 0.05,
+    "LevelMultiplier": 0,
+    "Prefab": "TrophyDvergr_0"
+  }
+]

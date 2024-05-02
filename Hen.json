@@ -1,0 +1,20 @@
+[
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 1,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "ChickenMeat_0"
+  },
+  {
+    "DropPerPerson": false,
+    "NoScaleWithLevel": false,
+    "Min": 1,
+    "Max": 3,
+    "Rate": 1.0,
+    "LevelMultiplier": 1,
+    "Prefab": "Feathers_0"
+  }
+]
